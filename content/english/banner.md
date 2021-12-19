@@ -1,14 +1,14 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Aneli Campos-Andrade"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Aneli"
+last_name : "Campos"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Audio Engineer"
+- "Sound Designer"
+- "Dialogue Editor"
 
 # slider background image loop
 slider_images:
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "CONTACT ME"
   link : "#contact"
 
 
